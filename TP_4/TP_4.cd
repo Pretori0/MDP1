@@ -1,0 +1,221 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<ClassDiagram Zoom="1" MajorVersion="1" MinorVersion="1" MembersFormat="FullSignature">
+  <Class Name="TP_4.Program" Collapsed="True">
+    <Position X="0.5" Y="16.5" Width="1" />
+    <Compartments>
+      <Compartment Name="Methods" Collapsed="True" />
+    </Compartments>
+  </Class>
+  <Class Name="TP_4.Alumno" Collapsed="True">
+    <Position X="0.5" Y="10.9" Width="1" />
+    <Compartments>
+      <Compartment Name="Properties" Collapsed="True" />
+      <Compartment Name="Methods" Collapsed="True" />
+      <Compartment Name="Fields" Collapsed="True" />
+    </Compartments>
+  </Class>
+  <Class Name="TP_3.Cola" Collapsed="True">
+    <Position X="0.5" Y="17.9" Width="1" />
+    <Compartments>
+      <Compartment Name="Properties" Collapsed="True" />
+      <Compartment Name="Methods" Collapsed="True" />
+      <Compartment Name="Fields" Collapsed="True" />
+    </Compartments>
+  </Class>
+  <Class Name="TP_3.FabricaDeComparables" Collapsed="True">
+    <Position X="0.5" Y="0.5" Width="1" />
+    <Compartments>
+      <Compartment Name="Methods" Collapsed="True" />
+    </Compartments>
+  </Class>
+  <Class Name="TP_3.FabricaDeNumeros" Collapsed="True">
+    <Position X="3.3" Y="2.3" Width="1" />
+    <Compartments>
+      <Compartment Name="Methods" Collapsed="True" />
+      <Compartment Name="Fields" Collapsed="True" />
+    </Compartments>
+  </Class>
+  <Class Name="TP_3.FabricaDeProfesores" Collapsed="True">
+    <Position X="6.3" Y="2.3" Width="1" />
+    <Compartments>
+      <Compartment Name="Methods" Collapsed="True" />
+      <Compartment Name="Fields" Collapsed="True" />
+    </Compartments>
+  </Class>
+  <Class Name="TP_3.GeneradorDeDatosAleatorios" Collapsed="True">
+    <Position X="0.5" Y="21.1" Width="1" />
+    <Compartments>
+      <Compartment Name="Methods" Collapsed="True" />
+      <Compartment Name="Fields" Collapsed="True" />
+    </Compartments>
+  </Class>
+  <Interface Name="TP_3.IColeccionable" Collapsed="True">
+    <Position X="0.5" Y="23.4" Width="1" />
+    <Compartments>
+      <Compartment Name="Methods" Collapsed="True" />
+    </Compartments>
+  </Interface>
+  <Interface Name="TP_3.IComparable" Collapsed="True">
+    <Position X="0.5" Y="25.4" Width="1" />
+    <Compartments>
+      <Compartment Name="Methods" Collapsed="True" />
+    </Compartments>
+  </Interface>
+  <Interface Name="TP_3.IObservado" Collapsed="True">
+    <Position X="0.5" Y="27.1" Width="1" />
+    <Compartments>
+      <Compartment Name="Methods" Collapsed="True" />
+    </Compartments>
+  </Interface>
+  <Interface Name="TP_3.IObservador" Collapsed="True">
+    <Position X="0.5" Y="28.7" Width="1" />
+    <Compartments>
+      <Compartment Name="Methods" Collapsed="True" />
+    </Compartments>
+  </Interface>
+  <Interface Name="TP_3.Iterable" Collapsed="True">
+    <Position X="0.5" Y="30.1" Width="1" />
+    <Compartments>
+      <Compartment Name="Methods" Collapsed="True" />
+    </Compartments>
+  </Interface>
+  <Class Name="TP_3.IteraColeccion" Collapsed="True">
+    <Position X="0.5" Y="31.5" Width="1" />
+    <Compartments>
+      <Compartment Name="Methods" Collapsed="True" />
+      <Compartment Name="Fields" Collapsed="True" />
+    </Compartments>
+  </Class>
+  <Interface Name="TP_3.Iterador" Collapsed="True">
+    <Position X="0.5" Y="34" Width="1" />
+    <Compartments>
+      <Compartment Name="Methods" Collapsed="True" />
+    </Compartments>
+  </Interface>
+  <Class Name="TP_3.LectorDeDatos" Collapsed="True">
+    <Position X="0.5" Y="35.8" Width="1" />
+    <Compartments>
+      <Compartment Name="Methods" Collapsed="True" />
+    </Compartments>
+  </Class>
+  <Class Name="TP_3.Numero" Collapsed="True">
+    <Position X="0.5" Y="37.5" Width="1" />
+    <Compartments>
+      <Compartment Name="Properties" Collapsed="True" />
+      <Compartment Name="Methods" Collapsed="True" />
+      <Compartment Name="Fields" Collapsed="True" />
+    </Compartments>
+  </Class>
+  <Class Name="TP_3.Persona" Collapsed="True">
+    <Position X="0.5" Y="4.2" Width="1" />
+    <Compartments>
+      <Compartment Name="Properties" Collapsed="True" />
+      <Compartment Name="Methods" Collapsed="True" />
+      <Compartment Name="Fields" Collapsed="True" />
+    </Compartments>
+  </Class>
+  <Class Name="TP_3.Pila" Collapsed="True">
+    <Position X="0.5" Y="40.2" Width="1" />
+    <Compartments>
+      <Compartment Name="Properties" Collapsed="True" />
+      <Compartment Name="Methods" Collapsed="True" />
+      <Compartment Name="Fields" Collapsed="True" />
+    </Compartments>
+  </Class>
+  <Class Name="TP_3.PorDni" Collapsed="True">
+    <Position X="0.5" Y="43.4" Width="1" />
+    <Compartments>
+      <Compartment Name="Methods" Collapsed="True" />
+    </Compartments>
+  </Class>
+  <Class Name="TP_3.PorLegajo" Collapsed="True">
+    <Position X="0.5" Y="44.9" Width="1" />
+    <Compartments>
+      <Compartment Name="Methods" Collapsed="True" />
+    </Compartments>
+  </Class>
+  <Class Name="TP_3.PorNombre" Collapsed="True">
+    <Position X="0.5" Y="46.4" Width="1" />
+    <Compartments>
+      <Compartment Name="Methods" Collapsed="True" />
+    </Compartments>
+  </Class>
+  <Class Name="TP_3.PorPromedio" Collapsed="True">
+    <Position X="0.5" Y="47.9" Width="1" />
+    <Compartments>
+      <Compartment Name="Methods" Collapsed="True" />
+    </Compartments>
+  </Class>
+  <Class Name="TP_3.Profesor" Collapsed="True">
+    <Position X="0.5" Y="7.1" Width="1" />
+    <Compartments>
+      <Compartment Name="Properties" Collapsed="True" />
+      <Compartment Name="Methods" Collapsed="True" />
+      <Compartment Name="Fields" Collapsed="True" />
+    </Compartments>
+  </Class>
+  <Interface Name="TP_3.StrategyAlumno" Collapsed="True">
+    <Position X="0.5" Y="49.5" Width="1" />
+    <Compartments>
+      <Compartment Name="Methods" Collapsed="True" />
+    </Compartments>
+  </Interface>
+  <Class Name="TP_4.Teacher" Collapsed="True">
+    <Position X="0.5" Y="50.8" Width="1" />
+    <Compartments>
+      <Compartment Name="Methods" Collapsed="True" />
+      <Compartment Name="Fields" Collapsed="True" />
+    </Compartments>
+  </Class>
+  <Class Name="TP_4.StudentComparer" Collapsed="True">
+    <Position X="0.5" Y="53.2" Width="1" />
+    <Compartments>
+      <Compartment Name="Methods" Collapsed="True" />
+    </Compartments>
+  </Class>
+  <Class Name="TP_4.ListOfStudentIterator" Collapsed="True">
+    <Position X="0.5" Y="54.6" Width="1" />
+    <Compartments>
+      <Compartment Name="Methods" Collapsed="True" />
+      <Compartment Name="Fields" Collapsed="True" />
+    </Compartments>
+  </Class>
+  <Class Name="TP_4.ListOfStudent" Collapsed="True">
+    <Position X="0.5" Y="57" Width="1" />
+    <Compartments>
+      <Compartment Name="Methods" Collapsed="True" />
+      <Compartment Name="Fields" Collapsed="True" />
+    </Compartments>
+  </Class>
+  <Interface Name="TP_4.IteratorOfStudent" Collapsed="True">
+    <Position X="0.5" Y="59.1" Width="1" />
+    <Compartments>
+      <Compartment Name="Methods" Collapsed="True" />
+    </Compartments>
+  </Interface>
+  <Interface Name="TP_4.Collection" Collapsed="True">
+    <Position X="0.5" Y="60.9" Width="1" />
+    <Compartments>
+      <Compartment Name="Methods" Collapsed="True" />
+    </Compartments>
+  </Interface>
+  <Interface Name="TP_4.Student" Collapsed="True">
+    <Position X="0.5" Y="62.6" Width="1" />
+    <Compartments>
+      <Compartment Name="Methods" Collapsed="True" />
+    </Compartments>
+  </Interface>
+  <Class Name="TP_4.AlumnoMuyEstudioso" Collapsed="True">
+    <Position X="0.5" Y="15.2" Width="1" />
+    <Compartments>
+      <Compartment Name="Methods" Collapsed="True" />
+    </Compartments>
+  </Class>
+  <Class Name="TP_3.FabricaDeAlumnos" Collapsed="True">
+    <Position X="0.5" Y="2.3" Width="1" />
+    <Compartments>
+      <Compartment Name="Methods" Collapsed="True" />
+      <Compartment Name="Fields" Collapsed="True" />
+    </Compartments>
+  </Class>
+</ClassDiagram>
