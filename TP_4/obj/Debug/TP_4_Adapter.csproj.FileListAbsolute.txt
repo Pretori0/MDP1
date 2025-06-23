@@ -1,0 +1,20 @@
+E:\DOCS\SharpDevelop Projects\MP1_TP_4\TP_4\bin\Debug\TP_4_Decorator.exe
+E:\DOCS\SharpDevelop Projects\MP1_TP_4\TP_4\bin\Debug\TP_4_Decorator.pdb
+E:\DOCS\SharpDevelop Projects\MP1_TP_4\TP_4\obj\Debug\TP_4_Adapter.csprojResolveAssemblyReference.cache
+E:\DOCS\SharpDevelop Projects\MP1_TP_4\TP_4\obj\Debug\TP_4_Decorator.exe
+E:\DOCS\SharpDevelop Projects\MP1_TP_4\TP_4\obj\Debug\TP_4_Decorator.pdb
+C:\Users\bcn\Documents\MP1_TP_4\TP_4\bin\Debug\TP_4_Decorator.exe
+C:\Users\bcn\Documents\MP1_TP_4\TP_4\bin\Debug\TP_4_Decorator.pdb
+C:\Users\bcn\Documents\MP1_TP_4\TP_4\obj\Debug\TP_4_Adapter.csprojResolveAssemblyReference.cache
+C:\Users\bcn\Documents\MP1_TP_4\TP_4\obj\Debug\TP_4_Decorator.exe
+C:\Users\bcn\Documents\MP1_TP_4\TP_4\obj\Debug\TP_4_Decorator.pdb
+D:\UNAJ_2025\TP_4_FDS\TP_4\bin\Debug\TP_4_Decorator.exe
+D:\UNAJ_2025\TP_4_FDS\TP_4\bin\Debug\TP_4_Decorator.pdb
+D:\UNAJ_2025\TP_4_FDS\TP_4\obj\Debug\TP_4_Adapter.csprojResolveAssemblyReference.cache
+D:\UNAJ_2025\TP_4_FDS\TP_4\obj\Debug\TP_4_Decorator.exe
+D:\UNAJ_2025\TP_4_FDS\TP_4\obj\Debug\TP_4_Decorator.pdb
+E:\TP_4_FDS\TP_4\bin\Debug\TP_4_Decorator.exe
+E:\TP_4_FDS\TP_4\bin\Debug\TP_4_Decorator.pdb
+E:\TP_4_FDS\TP_4\obj\Debug\TP_4_Adapter.csprojResolveAssemblyReference.cache
+E:\TP_4_FDS\TP_4\obj\Debug\TP_4_Decorator.exe
+E:\TP_4_FDS\TP_4\obj\Debug\TP_4_Decorator.pdb
