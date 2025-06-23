@@ -1,5 +1,0 @@
-E:\DOCS\SharpDevelop Projects\MP1_TP_4\TP_4\obj\Debug\TP_4.csprojResolveAssemblyReference.cache
-E:\DOCS\SharpDevelop Projects\MP1_TP_4\TP_4\bin\Debug\TP_4_Decorator.exe
-E:\DOCS\SharpDevelop Projects\MP1_TP_4\TP_4\bin\Debug\TP_4_Decorator.pdb
-E:\DOCS\SharpDevelop Projects\MP1_TP_4\TP_4\obj\Debug\TP_4_Decorator.exe
-E:\DOCS\SharpDevelop Projects\MP1_TP_4\TP_4\obj\Debug\TP_4_Decorator.pdb
